@@ -1,3 +1,5 @@
+## simpliMap :- Maps Made Easy
+
 It is a Offline SMS service which helps in finding the routes from source to destination entered by the user. The user can search for the route by sending his current location and destination location. After querying via sms the directions will be received by the user via SMS.  
 
 
